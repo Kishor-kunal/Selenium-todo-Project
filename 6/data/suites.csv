@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6706","should be able to delete todo item from the application","Surefire suite","Sat Dec 27 11:53:53 UTC 2025","passed","Sat Dec 27 11:53:59 UTC 2025","com.qacart.todo.testcases.TodoTest","Surefire test","com.qacart.todo.testcases.TodoTest","deleteToDoFromApplication"
+"","6379","should be able to add todo item into the application","Surefire suite","Sat Dec 27 11:53:53 UTC 2025","passed","Sat Dec 27 11:53:59 UTC 2025","com.qacart.todo.testcases.TodoTest","Surefire test","com.qacart.todo.testcases.TodoTest","shouldBeAbleToAddTodo"
+"","4228","should be able to register into the application","Surefire suite","Sat Dec 27 11:53:53 UTC 2025","passed","Sat Dec 27 11:53:57 UTC 2025","com.qacart.todo.testcases.UserTest","Surefire test","com.qacart.todo.testcases.UserTest","shouldBeAbleToRegisterIntoTheApplication"
